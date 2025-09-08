@@ -1,7 +1,3 @@
-基于您提供的`readme.md`文件，我为您重新生成了一个更清晰、更结构化的README文件。它将原始文件中的关键修改点进行了解释和归纳，使其更易于理解。
-
------
-
 ### Statistics-fused learning for classification of randomized EEG trials
 
 **Project Overview**
